@@ -21,5 +21,10 @@ void Trabajador::setNombre(const string &value)
 
 }
 
+void Trabajador::obtenerDatos()
+{
+    cout<<"usando clase trabajador"<<endl;
+}
+
 
 
